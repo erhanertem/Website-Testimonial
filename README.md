@@ -8,7 +8,7 @@
 
 &emsp;
 
-#### Link to Project &rarr; [Shortly Website](https://shortly-erhan-ertem.netlify.app/)
+#### Link to Project &rarr; [Shortly Website](https://testimonial-erhan-ertem.netlify.app/)
 
 ![Screenshot](screenshot.webp)
 
