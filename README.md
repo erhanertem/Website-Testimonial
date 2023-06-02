@@ -4,11 +4,11 @@
 
 ## Udemy Tailwind CSS From Scratch Learn By Building Projects Brad Traversy
 
-### **Objective:** Shortly Website
+### **Objective:** Testimonial Grid Website
 
 &emsp;
 
-#### Link to Project &rarr; [Shortly Website](https://testimonial-erhan-ertem.netlify.app/)
+#### Link to Project &rarr; [Testimonial Grid Website](https://testimonial-erhan-ertem.netlify.app/)
 
 ![Screenshot](screenshot.webp)
 
